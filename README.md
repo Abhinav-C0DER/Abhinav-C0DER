@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! I'm [Abhinav Singh] 👋
 
-<!--
-**Abhinav-C0DER/Abhinav-C0DER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- **Branch:** [B.tech in computer science with AI/ML]
+- **Year:** [currently in !st year, graduation year '29]
+- **University:** [vellore Institute of Technology, Bhopal]
 
-Here are some ideas to get you started:
+### 🚀 Learning Goals
+I am currently focused on mastering the fundamentals of computer science and hope to learn how to build scalable, efficient AI systems that can solve complex real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+*   **Languages:** [C, C++, Python]
+*   **OS:** [Arch Linux]
+*   **Interests:** [AI/ML, Astrophysics, Web Development]
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav-C0DER&show_icons=true&theme=radical)
+
+---
+*“The best way to predict the future is to invent it.”*
