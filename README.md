@@ -2,8 +2,8 @@
 
 ### 🎓 About Me
 - **Branch:** [B.tech in computer science with AI/ML]
-- **Year:** [currently in !st year, graduation year '29]
-- **University:** [vellore Institute of Technology, Bhopal]
+- **Year:** [currently in 1st year, graduation year '29]
+- **University:** [Vellore Institute of Technology, Bhopal]
 
 ### 🚀 Learning Goals
 I am currently focused on mastering the fundamentals of computer science and hope to learn how to build scalable, efficient AI systems that can solve complex real-world problems.
